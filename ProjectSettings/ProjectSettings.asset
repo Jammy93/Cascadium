@@ -4,14 +4,22 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 12
+<<<<<<< HEAD
   productGUID: 852bb95dc1d09a34aa26a6b72cbe0156
+=======
+  productGUID: 9b5763941974f9f4b842feb0170f0274
+>>>>>>> da4f27e754e20ffeef737ea4d5d3a49c0a5429bf
   AndroidProfiler: 0
   defaultScreenOrientation: 4
   targetDevice: 2
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
+<<<<<<< HEAD
   productName: Cascadium
+=======
+  productName: Final Project
+>>>>>>> da4f27e754e20ffeef737ea4d5d3a49c0a5429bf
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -499,6 +507,7 @@ PlayerSettings:
   webGLUseEmbeddedResources: 0
   webGLUseWasm: 0
   webGLCompressionFormat: 1
+<<<<<<< HEAD
   scriptingDefineSymbols:
     1: CROSS_PLATFORM_INPUT
     4: CROSS_PLATFORM_INPUT;MOBILE_INPUT
@@ -507,6 +516,9 @@ PlayerSettings:
     17: MOBILE_INPUT
     20: MOBILE_INPUT
     22: MOBILE_INPUT
+=======
+  scriptingDefineSymbols: {}
+>>>>>>> da4f27e754e20ffeef737ea4d5d3a49c0a5429bf
   platformArchitecture: {}
   scriptingBackend: {}
   incrementalIl2cppBuild: {}
@@ -515,14 +527,22 @@ PlayerSettings:
   apiCompatibilityLevelPerPlatform: {}
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
+<<<<<<< HEAD
   metroPackageName: Cascadium
+=======
+  metroPackageName: Final Project
+>>>>>>> da4f27e754e20ffeef737ea4d5d3a49c0a5429bf
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
+<<<<<<< HEAD
   metroApplicationDescription: Cascadium
+=======
+  metroApplicationDescription: Final Project
+>>>>>>> da4f27e754e20ffeef737ea4d5d3a49c0a5429bf
   wsaImages: {}
   metroTileShortName: 
   metroCommandLineArgsFile: 
@@ -597,8 +617,13 @@ PlayerSettings:
     UNet: 1
   facebookSdkVersion: 7.9.4
   apiCompatibilityLevel: 2
+<<<<<<< HEAD
   cloudProjectId: 4e6566ce-97b4-44e8-bab9-36fcf1aa0bb2
   projectName: Cascadium
+=======
+  cloudProjectId: 30d8a234-fa18-4fa5-9b81-abd8df4934d7
+  projectName: Final Project
+>>>>>>> da4f27e754e20ffeef737ea4d5d3a49c0a5429bf
   organizationId: james-1653754
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
