@@ -1,9 +1,9 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Assets\HolyShift\Scripts\CheckForStandardAssets.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\camMouseLook.cs">
     <Files>
-      <File FileName="Assets\Editor\ExportTerrain.cs.cs" Line="1" Column="1" />
-      <File FileName="Assets\Assets\HolyShift\Scripts\CheckForStandardAssets.cs" Line="12" Column="1" />
+      <File FileName="Assets\Scripts\characterController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\camMouseLook.cs" Line="21" Column="66" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
