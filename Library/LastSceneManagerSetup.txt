@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Cascadium.unity
+- path: Assets/My Scenes/Menu.unity
   isLoaded: 1
   isActive: 1
